@@ -1,4 +1,3 @@
-import type { RequestInit } from 'undici';
 /**
  * The options used by Open Graph Scraper
  *
